@@ -1,7 +1,6 @@
-### Hi there 👋
+### Salut👋
 
-<!--
-**TmCheikh16/TmCheikh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TmCheikh16/TmCheikh16** is a ✨ _student to 3wa Maroc_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
